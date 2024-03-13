@@ -1,23 +1,35 @@
 <h1>Keylogger Using Python</h1>
 
 <h2>Description</h2>
-<p>This project involves the process of </p>
-<br />
+<p>A keylogger is a program that logs the keystrokes that a user makes on a computer. They can be used for both legitimate and malicious purposes. Keyloggers are dangerous because they're difficult to detect and very effective at what they do.</p>
+<p>This project involves the creation of a Keylogger using a scripting language known as Python. For the code editor, I will be using Visual Studio Code.</p>
 
 <h2>Utilities Used</h2>
 
 - <b>Python</b>
-- <b>Command-Line Interface</b> 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Visual Studio Code</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-: <br/>
+Ensure you have the latest version of Python installed on your computer (https://www.python.org/downloads/): <br/>
 <br>
-<img src="" height="80%" width="80%" alt="Keylogger"/>
+<img src="https://i.imgur.com/TdeUqel.png" height="80%" width="80%" alt="Keylogger"/>
+<br />
+<br />
+<br>
+Install the latest version of Visual Studio Code (https://code.visualstudio.com/): <br/>
+<br>
+<img src="https://i.imgur.com/AwhHJuW.png" height="80%" width="80%" alt="Keylogger"/>
+<br />
+<br />
+<br>
+Install the Python extensions on Visual Studio Code: <br/>
+<br>
+<img src="https://i.imgur.com/VdNcwSX.png" height="80%" width="80%" alt="Keylogger"/>
 <br />
 <br />
