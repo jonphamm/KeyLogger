@@ -35,20 +35,18 @@ Install the Python extensions on Visual Studio Code: <br/>
 <br />
 <br>
 We will use a Python library named pynput. This Python library lets you fully control and monitor keyboard and mouse inputs. Open up a terminal on your VS Code and install the pynput library by using the command below: <br/>
-<br>
   
 ```
 python -m pip install pynput
 ```
 
 <br />
-<br />
-<br>
-Now that we have installed the required Python library, import all the required packages.: <br/>
-<br>
+
+<p align="center">
+Now that we have installed the required Python library, import all the required packages: <br/>
   
 ```
-python -m pip install pynput
+from pynput import keyboard
 ```
 
 <br />
