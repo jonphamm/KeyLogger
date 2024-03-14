@@ -33,3 +33,13 @@ Install the Python extensions on Visual Studio Code: <br/>
 <img src="https://i.imgur.com/VdNcwSX.png" height="80%" width="80%" alt="Keylogger"/>
 <br />
 <br />
+<br>
+We will use a Python library named pynput. This Python library lets you fully control and monitor keyboard and mouse inputs. Install the pynput library by using the command below: <br/>
+<br>
+  
+```
+python -m pip install pynput
+```
+
+<br />
+<br />
